@@ -10,7 +10,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   String _url = "https://owlbot.info/api/v4/dictionary/";
-  String _token = "3d43c3ee853ea8a622b1d7adb751f2d2d95946b5";
+  String _token = "[Add your Token Here!]";
   TextEditingController _controller = new TextEditingController();
 
   StreamController _streamController;
